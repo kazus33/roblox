@@ -16,6 +16,6 @@ local scriptUrl = SupportedGames[game.PlaceId]
 if scriptUrl then
     loadstring(game:HttpGet(scriptUrl))()
 else
-    warn(HubName .. ": Ta gra nie jest wspierana.")
+    warn(HubName .. ": IDIOT.")
 end
 print("elo")
