@@ -18,3 +18,4 @@ if scriptUrl then
 else
     warn(HubName .. ": Ta gra nie jest wspierana.")
 end
+print("elo")
